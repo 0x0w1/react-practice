@@ -10,3 +10,7 @@
 * `develop`
 * `feature/**`
 
+# Js 학습 Extension for Cursor(or VSCode)
+* live server
+* Error lens
+* Prettier - code formatter
